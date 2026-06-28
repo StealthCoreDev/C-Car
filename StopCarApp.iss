@@ -1,7 +1,7 @@
 
 #define MyAppName "StopCarApp"
 #define MyAppVersion "1.0.0"
-#define MyAppPublisher "نام خودت را اینجا بنویس"
+#define MyAppPublisher "ArtinAhmadpoori"
 #define MyAppExeName "StopCarApp.exe"
 #define MyAppURL "https://github.com/USERNAME/StopCarApp"
 
